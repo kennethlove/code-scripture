@@ -1,3 +1,14 @@
 And the Scrummaster said, the developer shall go up: behold, I have delivered the user stories into the board.
 And in their terminal Git shall bear thee up, lest at any time thou stash thy commits against a repo.
 Therefore being justified by tests, we have peace with merges.
+Thou shall obey the 0b1010 commandments.
+You shall have no other branchs before Master.
+You shall not make bugs.
+You shall not take the name of the Linus your BDFL in vain.
+Remember the Epoch day, to keep it holy.
+Honor your HEAD and your HEAD.
+You shall not rm -rf /.
+You shall not commit redundancy.
+You shall not buffer overflow.
+You shall not bear false witness against your tests.
+You shall contribute to OSS.
