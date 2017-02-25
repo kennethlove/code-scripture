@@ -6,9 +6,9 @@ Thou shall have no other branchs before Master.
 Thou shall not make bugs.
 Thou shall not take the name of the /dev/null/ in vain.
 Remember the Epoch day, to keep it holy.
-Honor your HEAD and your HEAD.
+Honor thy HEAD and thy HEAD.
 Thou shall not rm -rf /.
 Thou shall not commit redundancy.
 Thou shall not buffer overflow.
-Thou shall not bear false witness against your tests.
+Thou shall not bear false witness against thy tests.
 Thou shall contribute to OSS.
