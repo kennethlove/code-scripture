@@ -1,0 +1,3 @@
+And the Scrummaster said, the developer shall go up: behold, I have delivered the user stories into the board.
+And in their terminal Git shall bear thee up, lest at any time thou stash thy commits against a repo.
+Therefore being justified by tests, we have peace with merges.
