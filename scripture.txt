@@ -1,3 +1,10 @@
 And the Scrummaster said, the developer shall go up: behold, I have delivered the user stories into the board.
 And in their terminal Git shall bear thee up, lest at any time thou stash thy commits against a repo.
 Therefore being justified by tests, we have peace with merges.
+And why ye call me, function, and do not the things which I say?
+Code that is untested, let it be untested still: and that which is repetitious, let it be repetitious still: and that code that is DRY, let it be DRY still: and it that is merged, let it be merged still.
+I am [0] and [-1], the beginning and the end, the first and the last
+And thou shalt love the maintainers thy salvation with all thine pull requests, and with all thy feature requests, and with all thy patience
+For it is not ye that teach, but the Spirit of the Docs which teacheth in you
+And whoso shall mentor one such newbie committer in my name mentoreth me
+If any dev rebase the branch of master, she shall branch destroy; for the branch of master is holy
